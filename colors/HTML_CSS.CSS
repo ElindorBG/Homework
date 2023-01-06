@@ -1,0 +1,18 @@
+h1{
+    color:blue;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.white_color {
+
+    color:white;font-style: italic;font-size: 20px
+}
+.green_color {
+
+    color:green;font-style: italic;font-size: 20px
+}
+.red_color {
+
+    color:red;font-style: italic;font-size: 20px
+}
+
